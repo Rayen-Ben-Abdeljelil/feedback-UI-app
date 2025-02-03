@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "excellent service!"
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "Good service"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "Nice!"
+    },
+    {
+      "text": "This is an updated item",
+      "rating": 9,
+      "id": "2fb7"
+    }
+  ]
+}
